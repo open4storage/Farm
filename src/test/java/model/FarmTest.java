@@ -21,5 +21,10 @@ public class FarmTest extends TestCase {
         Cow cow = new Cow();
         TestCase.assertNotNull(cow);
     }
+
+    public void testDuck() {
+        Duck duck = new Duck();
+        TestCase.assertNotNull(duck);
+    }
 }
 
