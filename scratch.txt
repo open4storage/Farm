@@ -2,4 +2,8 @@ Here is some text...
 
 
 change 3
+
 other one
+
+
+changed in bug-1 branch
